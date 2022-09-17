@@ -1,2 +1,1 @@
-# 2404-api-node-express
-Projeto utilizado no curso da Alura
+API REST feita com ajuda de um curso da alura
